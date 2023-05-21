@@ -10,7 +10,7 @@ body{
     text-align: center;
 }
 h1{
-    margin: 50px auto 0 auto;
+    margin: 3rem auto 0 auto;
     font-family: 'Caveat', cursive;
     font-size: 5.6rem;
     color: #66BFBF;
@@ -27,66 +27,66 @@ h3{
 }
 .top-cloud{
     position: absolute;
-    top: 50px;
-    right: 400px;
+    top: 3rem;
+    right: 25rem;
 }
 .bottom-cloud{
     position: absolute;
-    left: 400px;
-    bottom: 300px;
+    left: 25rem;
+    bottom: 18.75rem;
 }
 .special{
     font-family: serif;
 }
 .skill-row{
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 5.6rem auto 5.6rem auto;
     text-align: left;
     line-height: 2;
 }
 .skill-image1{
     width: 25%;
     float: left;
-    margin-right: 30px;
-    margin-bottom: 25px;
+    margin-right: 2rem;
+    margin-bottom: 1.6rem;
 }
 .skill-image2{
     width: 25%;
     float: right;
-    margin-left: 30px;
-    margin-bottom: 25px;
+    margin-left: 2rem;
+    margin-bottom: 1.6rem;
 }
 .skill-image3{
     width: 25%;
     float: left;
-    margin-right: 30px;
+    margin-right: 2rem;
 }
 .profile{
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 5.6rem auto 5.6rem auto;
 }
 .profile-pic{
     width: 40%;
 }
 .skills{
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 5.6rem;
+    margin-bottom: 5.6rem;
 }
 .bottom-container{
     background-color: #66BFBF;
-    height: 100px;
+    height: 5.6rem;
 }
 .footer-link{
     color: #11999E;
 }
 .contact-me{
-    margin: 100px auto 100px auto;
+    margin: 5.6rem auto 5.6rem auto;
     width: 50%;
 }
 hr{
     border-style: dotted none none;
     border-color: #C4DFDF;
-    border-width: 5px;
+    border-width: 0.31rem;
     width: 5%;
 }
 .btn {
@@ -102,8 +102,8 @@ hr{
     text-shadow: 1px 1px 3px #666666;
     font-family: Arial;
     color: #ffffff;
-    font-size: 16px;
-    padding: 10px 20px 10px 20px;
+    font-size: 1rem;
+    padding: 0.625rem 1.25rem 0.625rem 1.25rem;
     text-decoration: none;
   }
   
