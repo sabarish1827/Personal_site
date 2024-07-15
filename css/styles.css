@@ -80,7 +80,9 @@ h3{
     height: 5.6rem;
 }
 .footer-link{
-    color: #11999E;
+    color: #077381;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 .contact-me{
     margin: 5.6rem auto 5.6rem auto;
